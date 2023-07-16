@@ -138,7 +138,7 @@ class _HomePageCopyWidgetState extends State<HomePageCopyWidget> {
                                   0.0, 20.0, 0.0, 0.0),
                             ),
                             Tab(
-                              text: 'oioi',
+                              text: 'lalala',
                               icon: Icon(
                                 FFIcons.kbotonC,
                               ),
